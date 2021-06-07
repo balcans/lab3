@@ -8,3 +8,4 @@ added new branch from local
 added feature 2 from web
 
 
+changes will be stashed 
